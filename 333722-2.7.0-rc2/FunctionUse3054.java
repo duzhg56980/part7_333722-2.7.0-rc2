@@ -1,0 +1,6 @@
+import com.fasterxml.jackson.databind.introspect.AnnotatedClass;
+public class FunctionUse3054 {
+public void funcUse() {
+AnnotatedClass annotatedclass = new AnnotatedClass();
+}
+}
